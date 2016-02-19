@@ -1,25 +1,24 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About the Author
+tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: cycling.jpg
+  
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Andrew is learning to be a full stack web developer.  He's lived too many lives, but is always hungry for more experiences.
 
-## Minimal Mistakes is all about:
+## Andrew's previous lives:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Mechanical Engineer at ExxonMobil Development, working out of Japan, Qatar, and Nigeria.
+* Math teacher at OKC middle school, previously certified in Calculus, Statistics and Physics.
+* Bicycled nearly 10,000 miles from Vancouver to 'fin del mundo' in Argentina.
+* Master of the road trip: Scotland to Mongolia, London to Turkey, and endless miles across America for BBQ.
+* Motorcycled through SE Asia on old USSR 2-stroke engine Minsk.
+* Visited nearly 60 countries while learning Spanish, Paragliding, Scuba Diving, Kiteboarding, and cooking.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+
+
