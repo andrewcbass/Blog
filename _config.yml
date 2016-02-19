@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Andrew's Thoughts
 locale:           en_US
-url:
+url://andrewcbass.com
 
 
 # Jekyll configuration
@@ -40,14 +40,14 @@ titlecase: true
 
 
 # Site owner
-owner:
-  name: Your Name
+owner:UA-74047656-1
+  name: Andrew
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Full Stack Web Developer, world adventurer"
+  email: andrew.c.bass@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: @andrewstravels
+  facebook: andrew.bass.330
   google:
     plus: #username
     analytics:
@@ -55,7 +55,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: andrewcbass
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
