@@ -40,7 +40,7 @@ titlecase: true
 
 
 # Site owner
-owner:UA-74047656-1
+owner:
   name: Andrew
   avatar: bio-photo.jpg
   bio: "Full Stack Web Developer, world adventurer"
@@ -50,7 +50,7 @@ owner:UA-74047656-1
   facebook: andrew.bass.330
   google:
     plus: #username
-    analytics:
+    analytics: UA-74047656-1
     verify:
     ad-client:
     ad-slot:
