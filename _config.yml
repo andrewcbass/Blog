@@ -2,7 +2,7 @@
 
 title:            Andrew's Thoughts
 locale:           en_US
-url:
+url: http://andrewcbass.com
 
 
 # Jekyll configuration
@@ -42,7 +42,7 @@ titlecase: true
 # Site owner
 owner:
   name: Andrew
-  avatar: bio-photo.jpg
+  avatar: profile.jpg
   bio: "Full Stack Web Developer, world adventurer"
   email: andrew.c.bass@gmail.com
   disqus-shortname:
