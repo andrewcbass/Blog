@@ -4,9 +4,7 @@ title: Projects
 modified: 2016-02-19
 excerpt: "Andrew's projects."
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: rally.jpg
 ---
 
 
