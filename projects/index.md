@@ -4,7 +4,7 @@ title:
 modified: 2016-02-19
 excerpt: "Andrew's projects."
 image:
-  feature: sample-image-1.jpg
+  feature: patagonia.jpeg
 ---
 
 
