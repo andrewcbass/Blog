@@ -4,7 +4,7 @@ title: Projects
 modified: 2016-02-19
 excerpt: "Andrew's projects."
 image:
-  feature: rally.jpg
+  feature: sample-image-1.jpg
 ---
 
 
