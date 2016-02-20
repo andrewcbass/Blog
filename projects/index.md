@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: 
 modified: 2016-02-19
 excerpt: "Andrew's projects."
 image:
