@@ -44,10 +44,10 @@ owner:
   name: Andrew Bass
   avatar: prof3.jpeg
   bio: "Full Stack Web Developer, world adventurer"
-  email: andrew.c.bass@gmail.com
+  email: me@andrewcbass.com
   disqus-shortname:
   twitter: andrewcbass
-  facebook: andrew.bass.330
+  facebook:
   google:
     plus: #username
     analytics: UA-74047656-1
@@ -56,7 +56,7 @@ owner:
     ad-slot:
   bing-verify:
   github: andrewcbass
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 5960432/andrew #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: andrewcbass
   xing: #username
   instagram: #username
