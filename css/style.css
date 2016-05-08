@@ -1,0 +1,26 @@
+body {
+  padding-bottom: 90px;
+  position: relative;
+}
+
+.section {
+  height: 100vh;
+}
+
+.fixed-nav {
+  position: fixed;
+  bottom: 0;
+  /*left: 0;
+  z-index: 9999;
+  width: 100%;
+  background-color: #fff;*/
+}
+
+i {
+  padding-top: 10px;
+  color: black;
+}
+
+.img-tag {
+  font-size: 20px;
+}
