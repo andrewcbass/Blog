@@ -19,3 +19,7 @@ i {
 .img-tag {
   font-size: 20px;
 }
+
+img, .profile {
+  height: 140px;
+}
