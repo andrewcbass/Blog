@@ -2,7 +2,7 @@
 (function() {
 
   angular
-  .module("myApp", ["ui.router", "ngAnimate"])
+  .module("myApp", ["ui.router"])
 
   .config(configFunction)
 
