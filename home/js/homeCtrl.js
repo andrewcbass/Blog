@@ -8,9 +8,9 @@
 
     function homeCtrl($scope, $state) {
 
-      $scope.on('$stateChangeSuccess', function() {
-        $scope.page = $state.current.url
-      })
+      // $scope.on('$stateChangeSuccess', function() {
+      //   $scope.page = $state.current.url
+      // })
 
       //zenscroll
       $scope.scroll = function(navTo) {
