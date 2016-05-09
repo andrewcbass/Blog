@@ -16,5 +16,20 @@
       templateUrl: "home/home.html",
       controller: "homeCtrl"
     })
+    .state("home.festivalGo", {
+      url:"",
+      templateUrl: "home/projects/festivalGo.html",
+      controller: "homeCtrl"
+    })
+    .state("home.paceMe", {
+      url: "paceMe",
+      templateUrl: "home/projects/paceMe.html",
+      controller: "homeCtrl"
+    })
+    .state("home.stars", {
+      url: "stars",
+      templateUrl: "home/projects/stars.html",
+      contoller: "starCtrl"
+    })
   }
 })();
