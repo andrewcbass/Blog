@@ -1,6 +1,12 @@
 body {
   padding-bottom: 90px;
   position: relative;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.code {
+  font-family: 'Source Code Pro';
+  font-size: 80%;
 }
 
 .section {
@@ -12,8 +18,8 @@ body {
 }
 
 i {
-  padding-top: 10px;
   color: black;
+  margin-top: 20px;
 }
 
 .img-tag {
@@ -21,7 +27,13 @@ i {
 }
 
 .profilePic {
-  height: 140px;
+  height: 200px;
+  top: 50%;
+  left: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 }
 
 .festivalPic {
