@@ -26,6 +26,10 @@ body {
   font-size: 20px;
 }
 
+i {
+  color: black;
+}
+
 .profilePic {
   height: 200px;
   top: 50%;
@@ -33,7 +37,6 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-
 
 .projectPic {
   width: 70%;

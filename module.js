@@ -12,6 +12,7 @@
 
     $stateProvider
     .state("home", {
+      abstract: true,
       url: "/",
       templateUrl: "home/home.html",
       controller: "homeCtrl"
